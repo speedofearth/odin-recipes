@@ -1,0 +1,27 @@
+* {
+  font-size: 22px;
+  font-family: Helvetica, Arial, sans-serif;
+}
+
+body {
+  background-color: black;
+  color: azure;
+}
+
+.homepage,
+.center {
+  list-style-type: none;
+  text-align: center;
+}
+
+img {
+  height: auto;
+  width: 500px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+h1 {
+  font-size: 32px;
+}
